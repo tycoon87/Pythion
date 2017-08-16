@@ -1,0 +1,127 @@
+#wrapper {
+    width: 970px;
+    height: 750px;
+    background-color: #1e415e;
+}
+#header{
+    background-color: #1e415e;
+    height: 280px;
+}
+#nav1{
+    height: 45px;
+    width: 930px;
+    background-color: #1e415e;
+    display: inline-block;
+    padding: 20px;
+}
+.tbox{
+    background-color: #1e2933;
+    display: inline-block;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+#searchbox{
+    height: 100px;
+    background-color: #1e415e;
+    padding: 20px;
+    display: inline-block;
+    width: 930px;
+}
+#logo{
+    background-color: #1e415e;
+    max-height: 90px;
+    width: 450px;
+    display: inline-block;
+    margin-right: 20px;
+}
+#search{
+    height: 90px;
+    width: 450px;
+    background-color: #1e415e;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+.spic{
+    height: 30px;
+    width: 30px;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    border-radius: 5px;
+    background-color: black;
+    vertical-align:middle
+}
+input[type=text]{
+    width: 170px;
+    height:30px;
+}
+#pic1{
+    margin-top: 10px;
+    max-height: 250px;
+    max-width: 300px;
+}
+#nav2{
+    height: 45px;
+    width: 930px;
+    background-color: #1e415e;
+    display: inline-block;
+    padding: 20px;
+}
+.mbox{
+    background-color: #3573a7;
+    display: inline-block;
+    width: 128px;
+    height: 30px;
+    margin-left: 1px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+#main{
+    height: 200px;
+    width: 866px;
+    margin-top: 30px;
+    background-color: #1e415e;
+    padding: 0px 50px 0px 54px;
+}
+.img{
+    height: 200px;
+    width: 430px;
+    margin-left: -4px;
+    background-color: yellow;
+    display: inline-block;
+}
+#link{
+    width: 930px;
+    background-color: #1e415e;
+    height: 50px;
+    padding: 20px;
+}
+#lbox{
+    background-color: #1e415e;
+    height: 50px;
+    width: 600px;
+    display: inline-block;
+    margin-left: 160px;
+    text-align: center;
+    font-size: 16pt;
+}
+#footer{
+    background-color: white;
+    height: 300px;
+    width: 970px;
+}
+.foot{
+    height: 300px;
+    display: inline-block;
+    width: 220px;
+    background-color: blue;
+    margin-left: 15px;
+}
+a{
+    color: gold;
+}
